@@ -9,7 +9,7 @@ JavaScript and TypeScript client for the [MetalCharts API](https://metalcharts.o
 ## Install
 
 ```bash
-npm install metalcharts
+npm install github:maxcash2147/metalcharts-js
 ```
 
 Get a free API key at [metalcharts.org/metals-api](https://metalcharts.org/metals-api). The free plan has 200 requests a month and 30 days of daily history, with no card.
